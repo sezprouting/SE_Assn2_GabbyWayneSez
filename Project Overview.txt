@@ -1,0 +1,62 @@
+CASE STUDY
+Case Study 3
+Product: Multiplayer interactive game.
+Organisation: Small indie game development startup. Current work force: 4;
+Background: A small game startup has been successful in promoting their idea in an international contest. As a result they have received some startup funding and now need to scale up their company to make this game a reality. Their current scoping and planning work suggests that this is a 2 year project for a team of 45 – 50 people, including developers, designers, artists etc.
+
+WHAT IS THE PURPOSE OF THE ASSIGNMENT?
+Describe & analyse issues in software engineering projects and evaluate merits of SE techniques used to overcome the issues.
+
+WHAT ARE THE MAIN DELIVERABLES?
+First Milestone Deliverables:
+A)Team Agreement
+B)Work Breakdown Structrue
+C)Work Approach & Practices
+
+Final Deliverables
+A)Recommendations
+a)Report
+b)Exec Summary
+B)Project Practice Guide
+C)Project Tool Guide
+D)Tool/Practice Learning Package
+E)Evidence of Development Process
+F)Team Retrospective
+G)Individual Retrospective
+
+WHEN IS IT DUE? HOW LONG UNTIL IT'S DUE?
+First Milestone is due 15 April 5pm
+Final Deliverables due 27 May 5pm
+
+WHO IS IN THE DEVELOPMENT TEAM?
+Gabby, Wayne & Sez
+
+WHAT ARE THE ACCEPTANCE/QUALITY CRITERIA?
+The marking schedule = acceptance criteria
+
+WHO WILL CHECK IF WE MEET THESE CRITERIA? 
+We must check as we go, final check will be the lecturers.
+
+HOW WILL WE DIVIDE THE WORK AMONG TEAM MEMBERS?
+
+
+HOW WILL WE SCHEDULE THE WORK?
+
+
+HOW WILL WE CHECH OUR PROGRESS?
+
+
+HOW WILL THE TEAM KEEP IN TOUCH TO COORDINATE AND COLLABORATE
+AND MAKE SURE WE ARE ON THE SAME PAGE?
+
+
+WHAT WILL YOU NEED TO LEARN TO DELIVER THIS ASSIGNMENT?
+- work breakdown structures
+- various work approaches and practices and which have merit
+- what project tools exist and which have merit
+- how to effectively time-box
+- how to use project wikis
+- how to record evidence
+- how to work together in a team
+
+HOW WILL THE ASSIGNMENT BE DELIVERED?
