@@ -27,3 +27,10 @@ Skype		|  		As needed +
 --------------------------------------------------------
 Trello		|  as needed (communicates task status)
 --------------------------------------------------------
+
+Decision Making:
+Gather ideas from everyone and discuss the merits, then find the best solution (which may be a combination of ideas.)
+
+Disagreements
+Discuss which ideas will benefit us all; then vote. Majority wins.
+
