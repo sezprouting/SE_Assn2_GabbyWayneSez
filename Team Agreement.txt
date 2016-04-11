@@ -34,3 +34,6 @@ Gather ideas from everyone and discuss the merits, then find the best solution (
 Disagreements
 Discuss which ideas will benefit us all; then vote. Majority wins.
 
+Work Allocation
+Self Selection of tasks - ref http://www.networkedlearningconference.org.uk/past/nlc2008/abstracts/PDFs/Whatley_425-433.pdf
+-- Rock-paper-scissors to solve deadlocks
