@@ -22,7 +22,7 @@ Take Turns
 In person | Weekly (at tutorials)
 Email | As needed
 Text Message | As needed
-Skype | As needed + meetings every other day
+Skype | As needed + (nightly) meetings every day
 Trello | as needed (communicates task status)
 
 ###Decision Making:
