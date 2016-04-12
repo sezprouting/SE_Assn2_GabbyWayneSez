@@ -1,7 +1,17 @@
+- - - - DRAFT - DRAFT - DRAFT - - - 
+
+The following details were discussed in online meetings and in the tutorials.
+
 CASE 3: INTERACTIVE MULTIPLAYER GAME
 
 Project Milestones
 ==================
+
+**15 April 2016**
+Team Agreement
+Work Breakdown
+Work Approaches
+Team & Wiki Established in Blackboard
 
 **6 May 2016**
 Recommendations for Project Practices
@@ -21,6 +31,10 @@ Individual Retrospectives
 
 Work Breakdown
 ==============
+
+This is how we intend to breakdown the work, and the time which we will have to complete them. _Bulleted items will become tasks/cards in trello which the team will self assign according to our team agreement._
+Work will initially be typed in plain text or markdown (similar to this document), and will be uploaded to git to track changes.
+Pull requests will be used to review each other's work and to integrate branches of research into the final product. As each milestone is achieved, the text will be uploaded to the wiki.
 
 ###Evidence
 Gathered and added to wiki throughout; 

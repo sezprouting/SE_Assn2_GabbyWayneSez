@@ -1,0 +1,161 @@
+[12/04/16 6:37:23 pm] yi wu: I'm sorry about that I can't attend meeting tonight. I will celebrate my friend's graduation. Could us change time to tomorrow night?
+[12/04/16 6:40:04 pm] Sarah Prouting: I think it's really important for our planning and our teamwork if you tell us about these things much earlier.
+[12/04/16 6:41:30 pm] Sarah Prouting: For example, making it to the tutorials will be really important so we can meet face-to-face. Gabby and I made a lot of progress - but without you we can't confirm any of our work.
+[12/04/16 6:45:10 pm] Sarah Prouting: 1) Are you happy if Gabby and I meet tonight anyway?
+2) If we give you a list of tasks will you be able to catch up and have them done by this time tomorrow night?
+[12/04/16 6:50:46 pm] yi wu: Ok that's fine! I will catch up you guys!
+[12/04/16 6:50:55 pm] yi wu: I feel so sorry!
+[12/04/16 6:51:55 pm] Sarah Prouting: Okay - shall I email or skpe you the stuff to catch up on?
+Oh! And what shall our team name be? We need one to give to Jim
+[12/04/16 6:55:11 pm] Gabby: same username as github and trello?
+[12/04/16 6:55:48 pm] Sarah Prouting: Do you mean "Gabby, Wayne & Sez" ?
+[12/04/16 6:56:54 pm] Gabby: oh hmm it seems so long
+[12/04/16 6:57:20 pm] Gabby: i thought it was like short, my bad. so need think one
+[12/04/16 6:59:33 pm] Sarah Prouting: That's why I wrote Gawase in class! Just a nonsense word mate up from our names
+[12/04/16 7:00:51 pm] Gabby: true, so SE team SGW?
+[12/04/16 7:02:10 pm] Sarah Prouting: I'm happy with SGW!  Maybe we will have to wait until Wayne has had input as well though!!
+[12/04/16 7:02:30 pm] Sarah Prouting: Let's pencil it in :-)
+[12/04/16 7:02:35 pm] Sarah Prouting: ...
+[12/04/16 7:02:44 pm] Gabby: great! yeah let's wait for him then.
+[12/04/16 7:03:07 pm] Sarah Prouting: Done!  Do you want to have a go at chairing this meeting?
+[12/04/16 7:05:49 pm] Gabby: great, oh not this time, is it fine?
+[12/04/16 7:06:25 pm] Sarah Prouting: No? It's just you and me, you can't go wrong! I can tell you where to start if you like
+[12/04/16 7:07:42 pm] Gabby: okay i will try :)
+[12/04/16 7:08:39 pm] Gabby: so the agenda is in github right?
+[12/04/16 7:08:42 pm] Sarah Prouting: Great stuff! I'm pleased you're going to give it a try :-)
+So to start with, lets get the agenda open ... it's in the git hub repo
+[12/04/16 7:08:46 pm] Sarah Prouting: SNAP!!
+[12/04/16 7:09:19 pm] Gabby: haha good, i
+[12/04/16 7:09:29 pm] Gabby: will open it
+[12/04/16 7:10:06 pm] Sarah Prouting: great! It looks like we can just click on it & read it in git hub
+[12/04/16 7:10:39 pm] Gabby: yep! start with 1) Work Approach & Practices:  a) WHAT approaches and practices will we use in our project?
+[12/04/16 7:11:48 pm] Sarah Prouting: Hmm... good question!  I will open the agile book to remind me of what I was reading and thinking yesterday
+[12/04/16 7:15:35 pm] Gabby: Okay, I am thinking of agile to be used in the practices? EG, Time-boxing: every iteration, Short iterations and task boards.
+[12/04/16 7:15:37 pm] Gabby: not sure
+[12/04/16 7:15:49 pm] Sarah Prouting: snap!
+[12/04/16 7:16:01 pm] Sarah Prouting: Okay, so from the book (starting at p 153) I think we should use the following:
+- short daily meetings
+- team communication (as much as possible!)
+- short iterations (even smaller than the 'weeks' we discussed in class)
+- time-boxing
+- taskboards (trello)
+[12/04/16 7:16:45 pm] Gabby: yep! I agree with this all.
+[12/04/16 7:17:06 pm] Gabby: what about  delivering working software ?
+[12/04/16 7:17:23 pm] Gabby: like delivering the project (report)?
+[12/04/16 7:18:35 pm] Sarah Prouting: I see what you mean - so if I had the job card to deliver a recommendation for Quality Assurance, then I have to deliver the completed recommendation - with justification, sources and text all typed out?
+[12/04/16 7:19:23 pm] Gabby: yes i think so.
+[12/04/16 7:20:50 pm] Sarah Prouting: I agree. This could be a good description of how we would implement 'delivering working software'
+
+... so should we add a definition of 'done' to our team agreement?
+[12/04/16 7:22:13 pm] Gabby: Yep sounds good, and a definition of 'done', like a description?
+[12/04/16 7:24:57 pm] Sarah Prouting: I think so.. pretty much what we just said - like "the card is DONE when all team members have reviewed it, it includes justification  for any ideas, all work is referenced appropriately, spelling and grammar is satisfactory, it fulfills the requirements of the marking schedule"
+[12/04/16 7:26:08 pm] Gabby: Hmm yeah that makes sense, so yes, add it to our team agreement :)
+[12/04/16 7:26:16 pm] Sarah Prouting: Or, maybe add one thing: "the card is DONE when all team members have reviewed it, and all agree that it includes ...."
+[12/04/16 7:26:46 pm] Sarah Prouting: Okay ... adding it now, Madam Chair!!!
+[12/04/16 7:28:51 pm] Gabby: Haha great! 5 or 6 practices, we will use in our project
+[12/04/16 7:29:14 pm] Gabby: and have we describe B) HOW will we use these practices?
+[12/04/16 7:30:16 pm] Sarah Prouting: Yep, I'll paste exactly what I've added to the agreement:
+Definition of 'Done'
+The card is DONE when all team members have reviewed it and agree that: the work includes justification for any ideas, all work is referenced appropriately, spelling and grammar is satisfactory and it fulfills the requirements of the marking schedule.
+[12/04/16 7:30:30 pm] Sarah Prouting: WHOOPS
+[12/04/16 7:31:01 pm] Sarah Prouting: wy skype window scrolled down & I thought you wanted me to define DONE again!!
+[12/04/16 7:31:23 pm] Sarah Prouting: How to use the practices...
+[12/04/16 7:31:41 pm] Sarah Prouting: - short daily meetings
+- team communication (as much as possible!)
+- short iterations (even smaller than the 'weeks' we discussed in class)
+- time-boxing
+- taskboards (trello)
+[12/04/16 7:31:55 pm] Gabby: Ah i see lol. yes next part will be b) HOW will we use these practices?...
+[12/04/16 7:32:13 pm] Gabby: delivering the project is done, right?
+[12/04/16 7:32:16 pm] Sarah Prouting: - deliver working software (finalised text/report sections)
+[12/04/16 7:32:50 pm] Gabby: yep, so short daily meetings:
+[12/04/16 7:33:15 pm] Sarah Prouting: Yeah, we deliver working software by making sure each card conforms to done.
+
+Short daily meetings - these are best at night I think.
+[12/04/16 7:33:47 pm] Gabby: true. online discussions, checking on each other using github and trello?
+[12/04/16 7:34:24 pm] Sarah Prouting: I think so - what are the three questions I keep hearing about for scrum stand ups?
+[12/04/16 7:35:18 pm] Gabby: in class?
+[12/04/16 7:35:38 pm] Sarah Prouting: they were on a couple of Jim's slides
+[12/04/16 7:36:44 pm] Sarah Prouting: Oh - page 91 in the text book
+[12/04/16 7:37:31 pm] Gabby: ah
+[12/04/16 7:38:08 pm] Gabby: "What did you do on the previous working day? What
+will you do today? Any impediments?"?
+[12/04/16 7:39:24 pm] Sarah Prouting: Yeah. So our dailies (nightlies?!) could be, what did you do today, what will you do tomorrow, and what are the impediments?
+[12/04/16 7:40:02 pm] Sarah Prouting: That way we will find out if one of us is away, sick, working an another assignment tomorrow or has a test or whatever
+[12/04/16 7:40:29 pm] Gabby: hmm yes, to know what we all have been up to
+[12/04/16 7:41:54 pm] Sarah Prouting: and if I say " I can't find any examples of Quality Assurance, then you and Wayne can help me, instead of getting to the end of the week and me saying - oh yeah, I don't have anything done.
+[12/04/16 7:42:06 pm] Sarah Prouting: (etc)
+[12/04/16 7:42:37 pm] Sarah Prouting: what time box would we put an these?
+[12/04/16 7:44:48 pm] Gabby: yep that i remember,
+
+for the time box, is it like calender? our main focus for next week is report 15% one, which we have discussed in class? or other one?
+[12/04/16 7:45:26 pm] Sarah Prouting: Oh I meant how many minutes should the daily meetings go for?
+[12/04/16 7:46:08 pm] Gabby: ah, well, i dont sure, an hour? or 30 mins?
+[12/04/16 7:47:42 pm] Sarah Prouting: I was thinking that if the agile book suggests 15 mins, and if we were to type up our answers ahead of time (but leave room in case they haven’t) then we should be able to get away with 30 mins. I’m pleased that matches one of your suggestions!
+[12/04/16 7:48:53 pm] Gabby: true, i see that, all depends on our time management. okay great, 30 mins then :)
+[12/04/16 7:49:24 pm] Sarah Prouting: cool!
+[12/04/16 7:50:52 pm] Gabby: great, then.. team communication: online, email and face to face?
+[12/04/16 7:51:31 pm] Sarah Prouting: I think so, eh.
+[12/04/16 7:51:38 pm] Sarah Prouting: as per the agreement?
+[12/04/16 7:53:20 pm] Gabby: yep
+[12/04/16 7:53:25 pm] Gabby: add more?
+[12/04/16 7:54:08 pm] Sarah Prouting: I can’t think of anything to add
+[12/04/16 7:54:18 pm] Sarah Prouting: (to communication)
+[12/04/16 7:55:08 pm] Gabby: so online, email and face to face, then :)
+[12/04/16 7:55:20 pm] Sarah Prouting: Yep :-)
+[12/04/16 7:56:01 pm] Gabby: Short daily meeting: done
+Team communication: done
+so ... short iterations:
+[12/04/16 7:56:57 pm] Sarah Prouting: I almost think that short iterations and time boxing go together?
+[12/04/16 7:57:48 pm] Gabby: hmm yeah, true, so short iterations and time boxing:
+[12/04/16 7:58:29 pm] Gabby: time framework shown in this section?
+[12/04/16 7:58:36 pm] Gabby: Like calender?
+[12/04/16 8:00:33 pm] Sarah Prouting: Yeah…. so I feel like the timelines on the calendar are like project milestones, and the short iterations will be the smaller parts of each section - for example anything in the work breakdown which is a bullet point
+[12/04/16 8:01:52 pm] Sarah Prouting: so we could allocate 4 days, or 5 days, or a week to be like a sprint - and then select the cards which we each think we can do in that time (if a ‘card’ is a bullet point from the work breakdown)
+[12/04/16 8:02:44 pm] Gabby: hmm yes i agree, better than longer, but if we think we can't make it short days, so can extend days a bit?
+[12/04/16 8:02:46 pm] Sarah Prouting: And depending on how we manage the smaller stuff, the bigger milestones will move
+[12/04/16 8:03:52 pm] Sarah Prouting: That’s hard to explain, so it might take me a while (be patient!) .. Here goes;
+[12/04/16 8:05:28 pm] Sarah Prouting: Let’s say we have a time box of 4 days. We each pick a task, maybe like this:
+Sez: Collaboration&Communication 
+Gabby: RequirementsEngineering Wayne: ProjectPlanningandTracking
+[12/04/16 8:06:01 pm] Sarah Prouting: At the end of the four days, Sez didn’t manage to finish collaboration & communication.
+[12/04/16 8:06:41 pm] Sarah Prouting: So, that time box still finishes and we don’t extend it.
+
+BUT
+[12/04/16 8:07:42 pm] Sarah Prouting: Sez can finish the card in the next time box
+[12/04/16 8:09:13 pm] Sarah Prouting: Although hopefully I’ve been telling everyone during the daily meetings about how I can’t get it finished, so Wayne & Gabby help me get the card finished in the first time box, since that’s what we committed to
+[12/04/16 8:10:50 pm] Sarah Prouting: If this keeps happening, and no one can get anything finished in a time box, then we are either choosing too much work, or we think about changing how we time box
+[12/04/16 8:11:47 pm] Gabby: Ah yes i got it, so the project requirement will be breaking down into cards, which we could pick one or more each per sprint and estimate the time we should be finished with the tasks, then?
+[12/04/16 8:12:10 pm] Sarah Prouting: Very close!
+[12/04/16 8:12:25 pm] Sarah Prouting: Yes to this: so the project requirement will be breaking down into cards, which we could pick one or more each per sprint
+[12/04/16 8:13:16 pm] Sarah Prouting: what we estimate, is how many cards we can get done in a sprint… and the time of the sprint doesn’t change
+[12/04/16 8:14:11 pm] Sarah Prouting: but since we are learning how to do it, we might find our sprint time isn’t very good. It should be the las thing we change
+[12/04/16 8:14:41 pm] Gabby: ah I see, so in the first sprint, we estimate and it stays the same throughout?
+[12/04/16 8:16:05 pm] Sarah Prouting: yes, the time stays the same throughout. Unless our time box is so bad that we can never get anything finished
+[12/04/16 8:16:57 pm] Gabby: Ah okay got it, so in the planning project, we need to estimate?
+[12/04/16 8:17:58 pm] Sarah Prouting: Yes I think so
+[12/04/16 8:18:56 pm] Gabby: okay then
+[12/04/16 8:19:37 pm] Gabby: the answer for the short iternition/time boxing have been explained?
+[12/04/16 8:20:37 pm] Sarah Prouting: Let’s see what we have…
+[12/04/16 8:20:55 pm] Sarah Prouting: Short iteration: the project requirement will be breaking down into cards, which we could pick one or more each per sprint
+[12/04/16 8:21:23 pm] Sarah Prouting: Time boxing: -
+[12/04/16 8:21:38 pm] Sarah Prouting: I propose 5 days. What do you think?
+[12/04/16 8:22:25 pm] Gabby: hmm yes sounds good
+[12/04/16 8:22:52 pm] Sarah Prouting: Great!
+[12/04/16 8:24:24 pm] Sarah Prouting: So… if we were to each have a branch on github
+[12/04/16 8:24:47 pm] Sarah Prouting: and type our work in plain text, then push it up on our branch
+[12/04/16 8:25:48 pm] Gabby: hmm yes we could try
+[12/04/16 8:25:52 pm] Sarah Prouting: then use a pull request - that means the other two can look at it to see if it meets the definition of done
+[12/04/16 8:26:30 pm] Sarah Prouting: then merge it into master. Then all we have to do at the end is transfer the master on to the wiki
+[12/04/16 8:26:48 pm] Sarah Prouting: And that would be continuous integration
+[12/04/16 8:27:53 pm] Sarah Prouting: … My tea has been served up at the dinner table, so I had better go eat!
+[12/04/16 8:28:27 pm] Sarah Prouting: when do you want to meet next? Later tonight, or tomorrow?
+[12/04/16 8:29:24 pm] Gabby: hmm yes i agree with this section :)
+[12/04/16 8:29:41 pm] Gabby: ah i see, yeah tomorrow night?
+[12/04/16 8:30:22 pm] Sarah Prouting: Yay!!! We’re making good progress :-)
+[12/04/16 8:30:42 pm] Sarah Prouting: Til tomorrow then
+[12/04/16 8:30:48 pm] Gabby: yes! :) tomorrow agenda: taskboards (trello), and review todays meeting then :)
+[12/04/16 8:31:01 pm] Sarah Prouting: perfect!
+[12/04/16 8:31:12 pm] Sarah Prouting: might be able to get Wayne to chair!!!
+[12/04/16 8:31:28 pm] Sarah Prouting: (You did a great job by the way :-) )
+[12/04/16 8:43:16 pm] Gabby: great. and thanks! :)
