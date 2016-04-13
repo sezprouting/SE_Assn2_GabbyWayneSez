@@ -27,7 +27,6 @@ Time for a _nightly_ meeting will be 30 minutes.
 
 _Task Boards_
 Trello, will be used to manage the _taskboards_ and GitHub, will be used to collect the _agendas_. 
-
 A person will take a responsible to make cards in trello, to be able to see our _progresses_ clearly and see whether it has been _completed_, make some _changes_ or not.
 
 _Delivering Working Software_
