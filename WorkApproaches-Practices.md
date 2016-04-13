@@ -8,6 +8,7 @@
 - continuous integration
 
 **b) HOW will we use these practices?**
+
 _Short Daily Meetings_
 We agreed these meetings would be nightly rather than daily and consist of the three scrum standup questions:
 - What have you done today
