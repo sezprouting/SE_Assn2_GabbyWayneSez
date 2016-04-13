@@ -26,7 +26,9 @@ Currently, time box for a _sprint_ will be 5 days.
 Time for a _nightly_ meeting will be 30 minutes.
 
 _Task Boards_
--- to be entered
+Trello, will be used to manage the _taskboards_ and GitHub, will be used to collect the _agendas_. 
+
+A person will take a responsible to make cards in trello, to be able to see our _progresses_ clearly and see whether it has been _completed_, make some _changes_ or not.
 
 _Delivering Working Software_
 Work will be chosen so that at the end of a _sprint_ a complete module which meets a section or subsection of the marking schedule is delivered. This means it meets the definition of done.
