@@ -46,6 +46,7 @@ Work Approaches
 Team & Wiki Established in Blackboard
 
 **6 May 2016**
+Main Report Content
 Recommendations for Project Practices
 Recommendations for Project Tools
 
@@ -79,6 +80,12 @@ Final report uploaded to wiki on **18 May 2016**
 **_Introduction_**
 
 **_Recommendations_**
+
+   * Collaboration & Communication
+   * Requirements Engineering
+   * Project Planning & Tracking
+   * Managing Change
+   * Quality Assurance
 
 _Project Practices_
 => completed by **6 May 2016**
