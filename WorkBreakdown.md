@@ -1,8 +1,40 @@
-- - - - DRAFT - DRAFT - DRAFT - - - 
-
-The following details were discussed in online meetings and in the tutorials.
 
 CASE 3: INTERACTIVE MULTIPLAYER GAME
+
+Project Components
+==================
+1. Report 
+    a) Introduce Project & Concept
+    b) Recommendations
+        i) Collaboration & Communication
+        ii) Requirements Engineering
+        iii) Planning
+        iv) Change Management
+        v) QA
+
+2. Project Practice Guide
+    a) Collaboration & Communication
+    b) Requirements Engineering
+    c) Planning
+    d) Change Management
+    e) QA
+3. Tool Guide
+    a) Collaboration & Communication
+    b) Requirements Engineering
+    c) Planning
+    d) Change Management
+    e) QA
+
+4. Tool/Practice Learning Package
+    a) Goals
+    b) Target Audience
+    c) Learning Plan
+    d) Learning Resources
+    e) Learning Activity
+5. Evidence
+6. Executive summary
+7. Team Retrospective
+8. Individual Retrospectives (x3)
 
 Project Milestones
 ==================
@@ -32,7 +64,6 @@ Individual Retrospectives
 Work Breakdown
 ==============
 
-This is how we intend to breakdown the work, and the time which we will have to complete them. _Bulleted items will become tasks/cards in trello which the team will self assign according to our team agreement._
 Work will initially be typed in plain text or markdown (similar to this document), and will be uploaded to git to track changes.
 Pull requests will be used to review each other's work and to integrate branches of research into the final product. As each milestone is achieved, the text will be uploaded to the wiki.
 
