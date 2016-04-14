@@ -1,0 +1,92 @@
+[14/04/16 8:37:25 pm] Sarah Prouting: Oh No!!
+[14/04/16 8:38:11 pm] Sarah Prouting: Is there anyone there? I have been sitting at my computer and I lost track of time :-( I am going to set an alarm for the future!
+[14/04/16 8:56:19 pm] Gabby: It's okay. So.. I think Wayne is not online?
+[14/04/16 8:56:35 pm] Sarah Prouting: I guess not.
+[14/04/16 8:58:51 pm] Sarah Prouting: I guess we forge onwards
+[14/04/16 8:59:06 pm] Sarah Prouting: what do we have left to do?
+[14/04/16 8:59:50 pm] Sarah Prouting: I can copy & paste agenda stuff from yesterday
+[14/04/16 9:01:11 pm] Gabby: I think just one more agreement on trello on the milestones one
+[14/04/16 9:03:05 pm] Sarah Prouting: oh right. We were happy with the effort estimations on Trello, eh?
+[14/04/16 9:07:40 pm] Gabby: Yeah, so to be clearly, there's difference between project practice guide/project tool guide and tool/practice learning practice right?
+[14/04/16 9:10:19 pm] Sarah Prouting: Yes.
+[14/04/16 9:10:44 pm] Sarah Prouting: I think there are four parts
+[14/04/16 9:11:29 pm] Sarah Prouting: 1. "Report" - this recommends which practices should be used - backed up by research
+[14/04/16 9:12:25 pm] Sarah Prouting: 2. Project Practice Guide - A guide on how to put the practices into practice
+[14/04/16 9:12:52 pm] Sarah Prouting: 3. Tool Guide - A guide to the tools which will help put the practices into practice
+[14/04/16 9:13:27 pm] Sarah Prouting: 4. Tool/Practice Learning Package - A teaching on how to use ONE thing
+[14/04/16 9:15:04 pm] Gabby: Okay good. 
+
+Oh I tho six parts? Excluded team, individual retrospective. 
+
+Executive summary and evidence of development process?
+[14/04/16 9:17:28 pm] Sarah Prouting: yep. you're right.
+[14/04/16 9:18:26 pm] Sarah Prouting: 5. Evidence (collected as we go)
+6. Ekecutive summary
+7. Team Rentro
+8. Individual Retros
+[14/04/16 9:19:46 pm] Sarah Prouting: So if you like, I will put the work breakdown into the wiki,
+And you could add the team agreement
+[14/04/16 9:20:44 pm] Gabby: Okay great as the estimate could be wrong but it's fine, we could explain why in the end of project.
+[14/04/16 9:20:51 pm] Gabby: Oh yes okay I can do now
+[14/04/16 9:22:10 pm] Sarah Prouting: It's cool because an estimate doesn't have to be accurate, and we have very little experience in estimating these things... so we can expect them to change anyway
+[14/04/16 9:22:52 pm] Gabby: Yeah
+[14/04/16 9:25:18 pm] Gabby: Also do we need to take on the tasks now?
+[14/04/16 9:25:50 pm] Gabby: Like practice guide: pick one or two etc?
+[14/04/16 9:27:05 pm] Sarah Prouting: I think it's a good idea to get started!
+
+... Do you think we should have 5 cards for the "Report" as well?
+[14/04/16 9:28:13 pm] Sarah Prouting: Also - I will do the breakdown in a diagram... something like this:  https://en.wikipedia.org/wiki/Work_breakdown_structure
+[14/04/16 9:30:01 pm] Gabby: Yeah this diagram will help.
+
+And for the report, what 5 cards? I think 3?
+[14/04/16 9:31:06 pm] Sarah Prouting: So... looking at the bacjlog in trello, there are 5 cards for the process guide, and 5 cards for the tool guide
+[14/04/16 9:31:38 pm] Sarah Prouting: They use the same categories.. so the "Report" section could have the same 5 sections
+[14/04/16 9:34:52 pm] Gabby: So the report will cover introduce the project, context and recommendations: supports by researching on attribute and literature, lastly link to practices and tools.
+[14/04/16 9:45:41 pm] Sarah Prouting: Maybe more than 5 cards then!!!
+In my head, (and I'm totally open to having this changed if you want to da it another way... please don't think I'm telling us to do anything... I'm only sharing things the way I understand them :-) )
+
+In my head, I see that we will write a report which
+* Introduces the project and context. 
+* We will then make recommendations on how the project (Case 3) should be run -  including advice on what philosophies the team should use to  manage (1) Collaboration & Communication, (2) Requirements, (3) Planning, (4) Change Management and (5) QA.  These recommendations are very high level, very conceptual and abstract and backed up by reference to research etc.
+* At the end of the report, we will offer more detail on how to implement the concepts in their specific environment (Practice Guide), and the tools they can use to do it (Tool Gude).
+*  We will also provide a learning package on how to use one of the tools.;
+* For the CEO of the development team, who has 2 minutes to read our advice rather than 10-20 mins to explore the wiki, we will summarise the report onto one powerpoint presentation slide.
+* Then for Jim we will provide evidence of how we did it, and a write up on what we thought about it (Retros).
+[14/04/16 9:49:00 pm] Gabby: Oh I see, it's not written on a word document?
+[14/04/16 9:49:07 pm] Gabby: Only wiki?
+[14/04/16 9:52:47 pm] Sarah Prouting: That's right the whole thing is to be typed up on the wiki
+[14/04/16 9:53:11 pm] Sarah Prouting: so the report will be one of the pages..
+[14/04/16 10:01:12 pm] Gabby: Ah I see, okay. Sounds good, make a person have an easy access to the wiki as a main point?
+[14/04/16 10:08:57 pm] Sarah Prouting: I guess that's the idea!
+[14/04/16 10:09:16 pm] Sarah Prouting: what do you think about the concept?
+[14/04/16 10:10:08 pm] Gabby: Great. I think it's good so far, could be added something later on :)
+[14/04/16 10:10:33 pm] Sarah Prouting: for sure :-)
+[14/04/16 10:15:54 pm] Gabby: Great, done with uploading the team agreement to wiki
+[14/04/16 10:16:03 pm] Sarah Prouting: Great!
+[14/04/16 10:33:33 pm] Sarah Prouting: I've made more cards in Trello. I don't see why we can't pick a card and get started - I suppose we would have 5 days to finish the card, since that's what we gave ourselves!
+[14/04/16 10:35:06 pm] Gabby: Oh yes, perfect! So just need to tick to take on the tasks?
+[14/04/16 10:35:28 pm] Sarah Prouting: I've made us a list each - take a look in Trello
+[14/04/16 10:36:10 pm] Gabby: Oh yes I saw
+[14/04/16 10:36:11 pm] Sarah Prouting: You can also add yourself as a member, and add the due date as well - and if you do that then I think Trello will email you reminders
+[14/04/16 10:37:13 pm] Sarah Prouting: You should also be able to see a link to a calendar...
+[14/04/16 10:37:33 pm] Sarah Prouting: Image
+[14/04/16 10:37:50 pm] Sarah Prouting: which gets updated with the due dates on the cards
+[14/04/16 10:38:03 pm] Gabby: Yeah, so how we know what's on the lists of the tasks? Use the breakdown list?
+[14/04/16 10:39:31 pm] Gabby: Should we start planning with the structure of the report so the tasks could be split into several ways and the options could be clearly on the table?
+[14/04/16 10:40:56 pm] Sarah Prouting: I was hoping the cads in the backlog which are coloured blue would provide the structure?
+[14/04/16 10:41:09 pm] Sarah Prouting: I see you've changed the colour!!
+[14/04/16 10:41:36 pm] Gabby: Hah I could change it back and I see
+[14/04/16 10:41:56 pm] Sarah Prouting: It's all good, you can change the colour if you want :-)
+[14/04/16 10:42:20 pm] Gabby: Great lol. Oh how to let person know that you are willing to take on the particular tasks ?
+[14/04/16 10:43:23 pm] Sarah Prouting: Well, if you are just indicating interest, then I guess you could add a comment to the card, or if you want to commit to it, then you could drag it into your list
+[14/04/16 10:43:41 pm] Sarah Prouting: & add yourself as a member on the card
+[14/04/16 10:44:12 pm] Sarah Prouting: Image
+[14/04/16 10:51:23 pm] Sarah Prouting: Do you want to catch up again sometime tomorrow, before it's due? (Like, maybe 3pm)
+[14/04/16 10:52:02 pm] Gabby: Oh i thought all have been finalised?
+[14/04/16 10:53:08 pm] Sarah Prouting: Well we don't have to, sometimes it's nice to check in and make sure we're all happy - you might not like the work breakdown that I make up!
+[14/04/16 10:58:17 pm] Gabby: Ah sure lol. I could try and check messages. I'm pretty happy with all things
+[14/04/16 10:58:25 pm] Gabby: Will check in tomorrow then :)
+[14/04/16 10:59:04 pm] Sarah Prouting: Cool - it doesn't have to be a serious meeting!
+I wonder what has happened to Wayne?!
+[14/04/16 11:00:54 pm] Sarah Prouting: Sorry, I didn't realise the time. I'll say good night. Feel free to kick me offline if I do this again.
+[14/04/16 11:03:03 pm] Gabby: Yeah I'm wondering the same thing. And lol it's okay. I'll stay up pretty late, as I have another assignment that dues tomorrow
