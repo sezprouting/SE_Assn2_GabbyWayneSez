@@ -1,0 +1,19 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\f0\fs24 \cf0 [4/05/16 7:08:31 am] Sarah Prouting: Hi guys!\
+Take a look in Trello, I have added a card in the 'Done' list, it's called "Definition of Done" and I copied and pasted the definition from our team agreement into that card. I also put some notes on how to review it (as we discussed in the tutorial yesterday)\
+\
+[4/05/16 7:10:07 am] Sarah Prouting: Also, there is a card at the top of the 'Sprint Backlog' list and it is called "Sprint Goal"\
+We need to come up with a sprint goal at the 4 o'clock meeting today so have a think about it now :-) Be ready with an idea at 4 !!!\
+\
+[4/05/16 4:06:50 pm] Sarah Prouting: Hi Wayne and Gabby!\
+I have uploaded a little agenda to the Agendas folder, you\'92ll see it in github :-)\
+\
+[4/05/16 4:10:55 pm] Sarah Prouting: Let me know when you are online...\
+[4/05/16 4:22:22 pm] Sarah Prouting: Is anyone there?\
+[4/05/16 4:31:48 pm] Sarah Prouting: I am disappointed to be the only one here - what happened?\
+When shall we re-schedule this meeting?}
