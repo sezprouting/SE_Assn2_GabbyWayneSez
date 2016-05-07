@@ -1,0 +1,149 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\f0\fs24 \cf0 [4/05/16 4:35:31 pm] Gabby: Okay I just got home and tomorrow night will be alright.\
+[4/05/16 4:36:14 pm] Gabby: I can't access trello right now. So I plan to take over some tasks\
+[4/05/16 4:36:40 pm] Sarah Prouting: yeah about that - I think I was wrong about the start of the report.\
+[4/05/16 4:37:40 pm] Sarah Prouting: I think that first 25% is about choosing an agile methodology (or a hybrid), rather than finding solutions under those task headings.\
+[4/05/16 4:38:11 pm] Gabby: Image\
+[4/05/16 4:38:15 pm] Gabby: This one?\
+[4/05/16 4:38:33 pm] Gabby: Yeah it's the main report\
+[4/05/16 4:38:38 pm] Gabby: I assumed so\
+[4/05/16 4:38:50 pm] Sarah Prouting: yeah that one\
+[4/05/16 4:39:23 pm] Sarah Prouting: how did you interpret it?\
+[4/05/16 4:40:10 pm] Gabby: Image\
+[4/05/16 4:41:20 pm] Gabby: It say here, need to introduce the project and something which includes recommendations which will link to below like detail of recommendations in further of report\
+[4/05/16 4:41:55 pm] Gabby: Which need to pick the approaches for the project on this part then can explain more in the further tasks\
+[4/05/16 4:42:01 pm] Gabby: It's what I think\
+[4/05/16 4:42:27 pm] Gabby: I think can put three approaches or something\
+[4/05/16 4:47:03 pm] Sarah Prouting: So.. wikipedia has these methods:\
+[4/05/16 4:47:12 pm] Sarah Prouting: Image\
+[4/05/16 4:47:38 pm] Sarah Prouting: and these practices:\
+[4/05/16 4:47:43 pm] Sarah Prouting: Image\
+[4/05/16 4:48:09 pm] Sarah Prouting: So do you think that this part of the report should recommend a combination of these?\
+[4/05/16 4:50:23 pm] Gabby: Yeah it's in project practice guide I assumed\
+[4/05/16 4:50:55 pm] Gabby: But need to research on each approaches which match to the small group of 4\
+[4/05/16 4:53:17 pm] Sarah Prouting: Noting that the small group of 4 is going to grow into a large group of 45-50\
+[4/05/16 4:56:35 pm] Sarah Prouting: So\'85 taking your interpretation of this section of the report - how would you distribute the work for a sprint?\
+[4/05/16 5:01:58 pm] Gabby: So .. I don't even sure about sprint .\
+[4/05/16 5:06:33 pm] Sarah Prouting: Neither\
+[4/05/16 5:07:31 pm] Sarah Prouting: Mane we could each research three different methods and at the end recommend one (each) then we pick a winner from the three choices?\
+[4/05/16 5:07:47 pm] Sarah Prouting: "Mane" = Maybe\
+[4/05/16 5:11:27 pm] Sarah Prouting: Do you think we could do that by Monday?\
+[4/05/16 5:11:57 pm] Sarah Prouting: We can all write into the report as we go?\
+[4/05/16 5:28:16 pm] Gabby: Yeah we could. Methods are like approaches for the project?\
+[4/05/16 5:30:13 pm] Sarah Prouting: I think so... The big terms like XP, Scrum, Kanban, Crystal Clear... I think the ones in the list on that first Wikipedia screenshot\
+[4/05/16 5:34:43 pm] Gabby: Okay will try\
+[4/05/16 5:36:46 pm] Sarah Prouting: I wish Wayne had turned up to the meeting. I tried texting him at 4:50 but I still haven't heard from him\
+[4/05/16 5:37:16 pm] Sarah Prouting: Shall we just make an executive decision to make the change?!\
+[4/05/16 5:51:24 pm] Gabby: What is the changes?\
+[4/05/16 5:52:26 pm] Sarah Prouting: So.. Where I made the cards with the blue labels... We would delete them, and\
+[4/05/16 5:53:45 pm] Sarah Prouting: Maybe choose two or three types of agile each (different ones) and turn them into trellis cards\
+[4/05/16 5:53:54 pm] Sarah Prouting: And research\
+[4/05/16 5:54:03 pm] Sarah Prouting: Them.\
+[4/05/16 5:54:30 pm] Sarah Prouting: Sorry, my iPad is changing my words!!\
+[4/05/16 5:56:11 pm] Sarah Prouting: Image\
+[4/05/16 5:56:21 pm] Sarah Prouting: These ones\
+[4/05/16 5:59:58 pm] Gabby: I see\
+[4/05/16 6:00:24 pm] Gabby: Okay why not next to this section\
+[4/05/16 6:01:11 pm] Gabby: Not merge it into these cards\
+[4/05/16 6:02:10 pm] Sarah Prouting: I\'92m not sure what you are asking.. are you suggesting we can still use the cards for this section?\
+[4/05/16 6:03:04 pm] Gabby: Yeah isn't those cards come out of the report requirements?\
+[4/05/16 6:05:34 pm] Sarah Prouting: We\'92ll that\'92s where I think I went wrong\'85 because one philosophy (e.g. Kanban) doesn\'92t wedge into just collaboration, or quality assurance. I think the first section is about what philosophy (agile methodology) should encompass the whole project\'85 then the next sections are how to execute (carry out) each function\
+[4/05/16 6:06:49 pm] Sarah Prouting: I think I was wrong to try and split it up at the start of the report. Give me a few minutes and I will try to make an example report to show you what i mean\
+[4/05/16 6:06:54 pm] Gabby: So the changes will be removed all the cards and changing into the new list of cards?\
+[4/05/16 6:07:28 pm] Sarah Prouting: I think so\'85 if you agree. Give me a few minutes and I\'92ll make an example\
+[4/05/16 6:07:49 pm] Gabby: What's on the list?\
+[4/05/16 6:09:25 pm] Sarah Prouting: makes recommendations for suitable project approach/s. \
+- Collaboration&Communication \
+- RequirementsEngineering\uc0\u8232 - ProjectPlanningandTracking\
+- ManagingChange \
+- QualityAssurance\
+[4/05/16 6:09:54 pm] Sarah Prouting: So each point is a card in trello\
+[4/05/16 6:10:53 pm] Gabby: I see. \
+\
+Deliverable:\
+\
+Recommendations for project approach.\
+\
+Project practice guide.\
+\
+Project tool guide.\
+\
+Tool/practice learning package.\
+[4/05/16 6:11:19 pm] Gabby: Details will be like \
+Collaboration and communications etc\
+[4/05/16 6:11:59 pm] Sarah Prouting: Hang on - let me write up this example?\
+[4/05/16 6:23:26 pm] Sarah Prouting: okay, take a look at this https://docs.google.com/document/d/13yAUWeiJdkjFsim4gWN_FuhEA3h4KLe-fojO8DcJ0bc/edit?usp=sharing\
+[4/05/16 6:23:57 pm] Sarah Prouting: notice that the sub-headings of:\
+- Collaboration&Communication \
+- RequirementsEngineering\uc0\u8232 - ProjectPlanningandTracking\
+- ManagingChange \
+- QualityAssurance\
+[4/05/16 6:24:08 pm] Sarah Prouting: are NOT used in the first section?\
+[4/05/16 6:25:28 pm] Gabby: It relates to project practice guide\
+[4/05/16 6:25:44 pm] Sarah Prouting: yes. and tool guide\
+[4/05/16 6:26:47 pm] Gabby: Practices use in practice guide and Tools use for supporting the practices\
+[4/05/16 6:26:59 pm] Sarah Prouting: exactlly\
+[4/05/16 6:27:23 pm] Gabby: After that, pick one tool or practice\
+[4/05/16 6:27:41 pm] Gabby: To get depth details on it\
+[4/05/16 6:28:44 pm] Sarah Prouting: I think so. That\'92s how it\'92s worded in the assignment: \'93Select one tool or practice that you have recommended and prepare a learning package \'94\
+[4/05/16 6:29:07 pm] Gabby: Yeah\
+[4/05/16 6:30:40 pm] Sarah Prouting: So\'85 What i had originally designed was to use those bullet points as headings in that first section, but I don\'92t think that works very well, because we wouldn\'92t choose Scrum for collaboration and Kanban for requirements engineering\'85 would we?\
+[4/05/16 6:31:49 pm] Gabby: I don't sure about that but for the project case\
+[4/05/16 6:31:53 pm] Gabby: It might be worked\
+[4/05/16 6:32:34 pm] Gabby: And I don't get what foo is for\
+[4/05/16 6:33:00 pm] Sarah Prouting: oh, sorry. Foo is a nickname for \'93anything\'94\
+[4/05/16 6:33:43 pm] Gabby: Oh I see\
+[4/05/16 6:35:11 pm] Sarah Prouting: okay\'85 so if you compare the headings in the report I made, and the headings in the example - which one would you rather make?\
+[4/05/16 6:38:55 pm] Gabby: Heading? Like section one section two?\
+[4/05/16 6:40:56 pm] Sarah Prouting: Yeah. So in the report I made first there are only headings and sub-headings\
+In the example I made just now there are Headings, sub-headings and a little bit of pretend paragraph text\
+[4/05/16 6:41:10 pm] Gabby: Yeah I saw\
+[4/05/16 6:41:14 pm] Gabby: It's okay for now\
+[4/05/16 6:41:54 pm] Sarah Prouting: but the point is the headings direct the way the report is researched and reported. I think we should do the example - you think we should keep the first one?\
+[4/05/16 6:42:56 pm] Gabby: Yeah I think this report is a draft and guide us to stay on track so we could use it for now\
+[4/05/16 6:43:19 pm] Gabby: We can modify it later on when we have more details on\
+[4/05/16 6:44:49 pm] Sarah Prouting: Okay - fair enough!\
+[4/05/16 6:45:12 pm] Sarah Prouting: So\'85 how will we decide what main agile methodology to recommend?\
+[4/05/16 6:46:08 pm] Gabby: Check the project case then research on agile methodology individual then next meeting we can put out the ideas?\
+[4/05/16 6:47:21 pm] Sarah Prouting: Okay. Sounds good.\
+Do you think we should split up and research different ones - or all research everything?\
+[4/05/16 6:50:16 pm] Gabby: Research on everything? Like all parts of report case? Or agile methodology?\
+[4/05/16 6:50:44 pm] Sarah Prouting: Just for this part: \'93research on agile methodology individual\'94\
+[4/05/16 6:51:30 pm] Sarah Prouting: should we pick two or three each - or all research everything? I think we are running out of time, so maybe pick different ones to research\
+[4/05/16 6:51:53 pm] Sarah Prouting: and join them together on tuesday at the tutorial\
+[4/05/16 6:52:11 pm] Sarah Prouting: then pick one to recommend...\
+[4/05/16 6:52:15 pm] Gabby: Yeah agile one split up and what will we research on other than agile?\
+[4/05/16 6:52:24 pm] Sarah Prouting: Just agile\
+[4/05/16 6:52:44 pm] Gabby: Next Tuesday? I prefer do next meeting like tomorrow or Friday\
+[4/05/16 6:52:47 pm] Sarah Prouting: But like - I could research Crystal and you could research XP\
+[4/05/16 6:52:50 pm] Sarah Prouting: like that\
+[4/05/16 6:52:55 pm] Gabby: Pick one agile to use for the rest.\
+[4/05/16 6:53:14 pm] Sarah Prouting: to use for the rest of the report\
+[4/05/16 6:53:40 pm] Gabby: I meant we research now for the practices of agile\
+[4/05/16 6:53:54 pm] Gabby: We put out the ideas of method to recommend\
+[4/05/16 6:54:01 pm] Gabby: In the next meeting\
+[4/05/16 6:54:04 pm] Gabby: Like soon\
+[4/05/16 6:55:30 pm] Sarah Prouting: Yes!\
+So\'85 we pick one or two different methods each, and that covers lots of different methods. Then soon we put our research together and choose one to recommend.\
+Then later, we use that one method to do the rest of the report?\
+[4/05/16 6:56:15 pm] Sarah Prouting: We would still have our nightly meetings - but we arrange a different meeting to merge our ideas together?\
+[4/05/16 6:58:57 pm] Gabby: Yeah it will be good\
+[4/05/16 6:59:12 pm] Gabby: I think Sunday or Monday?\
+[4/05/16 6:59:20 pm] Sarah Prouting: Sunday night?\
+[4/05/16 6:59:57 pm] Sarah Prouting: We could have a retrospective either on Monday online or otherwise at the tutorial\
+[4/05/16 7:04:27 pm] Gabby: Yeah Sunday or Monday or titorial\
+[4/05/16 7:05:27 pm] Sarah Prouting: How about we share our findings on Sunday, choose the very final recommendation on Monday, and do the retrospective at the tutorial?\
+[4/05/16 7:06:11 pm] Gabby: Yeah it will do\
+[4/05/16 7:07:13 pm] Sarah Prouting: Okay - so do you have access to trello now?\
+[4/05/16 7:10:44 pm] Sarah Prouting: Cos I\'92m going to pick some methods and add them to the sprint backlog in my name!\
+[4/05/16 7:21:54 pm] Gabby: Yea\
+[4/05/16 7:21:58 pm] Gabby: I do now\
+[4/05/16 7:23:26 pm] Sarah Prouting: great! Have a look at the sprint goal and tell me what you think. Also, let me know if you want to do either of the cards which I chose :-)\
+[4/05/16 7:23:40 pm] Sarah Prouting: Cos I don\'92t mind switching :-)\
+[4/05/16 7:25:20 pm] Gabby: Okay sweet I'll do\
+[4/05/16 7:26:04 pm] Sarah Prouting: Great! Phew!  See you in half an hour for the nightly?!}

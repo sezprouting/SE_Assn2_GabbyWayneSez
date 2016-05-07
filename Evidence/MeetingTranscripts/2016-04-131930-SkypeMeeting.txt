@@ -1,0 +1,97 @@
+[13/04/16 7:34:52 pm] Sarah Prouting: Is anyone online?
+[13/04/16 7:37:31 pm] Gabby: Hi!
+[13/04/16 7:37:49 pm] Sarah Prouting: Hi :-)
+[13/04/16 7:38:00 pm] Sarah Prouting: We never set a time to meet!!
+[13/04/16 7:38:49 pm] Gabby: Yes.. I tho the same time as yesterday.
+[13/04/16 7:41:03 pm] Sarah Prouting: Same.. and then I got a little distracted with another assignment, my apologies!
+[13/04/16 7:41:15 pm] Sarah Prouting: Wayne - are you available?
+[13/04/16 7:41:25 pm] Gabby: Its okay! so lets wait for wayne.
+[13/04/16 7:45:38 pm] Sarah Prouting: He seems to answer quite well to text messages - do you think you could send him a text to see if he can come online?
+[13/04/16 7:45:58 pm] Gabby: yeah will do now
+[13/04/16 8:12:19 pm] Sarah Prouting: Any response?
+[13/04/16 8:15:41 pm] Gabby: no...
+[13/04/16 8:16:21 pm] Sarah Prouting: Shall we just carry on without him?
+[13/04/16 8:17:45 pm] Sarah Prouting: (am just going to go make a cup of tea, will take my phone into the kitchen with me so we can keep chatting)
+[13/04/16 8:26:36 pm] Sarah Prouting: I think item 1 on the agenda is the task boards. Are we halt that trello is the answer to that?
+[13/04/16 8:27:44 pm] Sarah Prouting: Halt = happy!!
+[13/04/16 8:28:20 pm] Gabby: trello, yes
+[13/04/16 8:28:36 pm] Gabby: and github too?
+[13/04/16 8:29:13 pm] Sarah Prouting: For task boards?
+[13/04/16 8:31:17 pm] Gabby: for agendas, minutes?
+[13/04/16 8:31:41 pm] Sarah Prouting: Oh right!
+[13/04/16 8:32:11 pm] Sarah Prouting: er... have we covered agendas already? I think you're right to bring it up
+[13/04/16 8:34:43 pm] Gabby: not yet, not that i know of. and yeah so adding this ?
+[13/04/16 8:34:58 pm] Sarah Prouting: Yeah I think you're right. So taskboards will be managed in trello and agendas put into git hub.
+[13/04/16 8:35:44 pm] Sarah Prouting: If there is an "Action Item" shall the person responsible also make a card in trello so that we can see the progress or whether it has been done?
+[13/04/16 8:39:14 pm] Gabby: Yep, and yes. checklists on trello
+[13/04/16 8:40:10 pm] Gabby: so taskboards: trello and github.
+[13/04/16 8:40:28 pm] Sarah Prouting: Sweet.
+[13/04/16 8:42:26 pm] Sarah Prouting: 2 - team name. We need to get this to Jim, so how about we go with GWS. Unfortunately we can't really wait for Wayne to agree, because we need to start adding content to the wiki and we can't do that until we have given a team name to Jim.
+[13/04/16 8:42:42 pm] Sarah Prouting: (and until he's made the group and wiki!)
+[13/04/16 8:46:20 pm] Gabby: true
+[13/04/16 8:46:25 pm] Gabby: need to email asap
+[13/04/16 8:46:29 pm] Gabby: cos friday
+[13/04/16 8:46:33 pm] Gabby: so GWS
+[13/04/16 8:47:38 pm] Sarah Prouting: GWS.
+Done.
+Next...
+[13/04/16 8:47:59 pm] Sarah Prouting: Have you had a look at the cards in trello?
+[13/04/16 8:49:36 pm] Sarah Prouting: Because I thought it would be one way to 'sign' the agreements ... Trello keeps a record of who checks an item on the checklist, so it would show you checked you agreement and I checked mine, etc
+[13/04/16 8:52:17 pm] Gabby: oh yes i saw, and was unsure if i should check them myself, so from now i will do this when i done with my tasks :)
+[13/04/16 8:53:18 pm] Gabby: so now, need to list the tasks: tasks breakdown?
+[13/04/16 8:56:42 pm] Sarah Prouting: Well we hadn't talked about it, and I wanted to make sure we were happy with the system first :-)
+[13/04/16 8:57:07 pm] Gabby: oh i am happy. so.. wait for wayne then
+[13/04/16 8:58:27 pm] Sarah Prouting: Sorry Gabby, I was distracted by someone asking me a question...
+[13/04/16 8:59:01 pm] Gabby: its ok
+[13/04/16 8:59:42 pm] Sarah Prouting: I think we can check our check boxes if we are both happy to do so :-) I was just trying to say that it was okay to be unsure because it wasn't something we had discussed.
+[13/04/16 9:00:07 pm] Gabby: i was reading the team agreement, work approach & practices, and work breakdown structure/release plan
+[13/04/16 9:00:12 pm] Gabby: and i see yeah will do
+[13/04/16 9:01:53 pm] Sarah Prouting: Se items 3, 4 & 5 a the agenda were there to give us (Wayne) a chance to suggest changes.
+[13/04/16 9:02:44 pm] Gabby: yes. hopefully wayne could give some ideas before tomorrow night. also, task boards: havent been entered yet?
+[13/04/16 9:03:01 pm] Sarah Prouting: Ah! Good point!!!
+[13/04/16 9:03:52 pm] Sarah Prouting: you could do that now :-)
+Have you been able to pull the repository down to your computer so you have a local copy?
+[13/04/16 9:09:07 pm] Gabby: editing the "master"? I can, so..
+
+"Task Boards:
+Trello, will be used to manage the taskboards and GitHub, will be used to collect the agendas. 
+
+A person will take a responsible to make cards in trello, to be able to see our progresses clearly and see whether it has been completed, make some changes or not. " ?
+[13/04/16 9:11:41 pm] Sarah Prouting: Sounds good to me! Will you add it to "WorkApproaches-Practices.md" ?
+[13/04/16 9:14:23 pm] Gabby: yep wil. do now
+[13/04/16 9:14:38 pm] Sarah Prouting: great!
+[13/04/16 9:16:42 pm] Gabby: done :)\
+[13/04/16 9:17:50 pm] Sarah Prouting: Yess! You're on FIRE!
+[13/04/16 9:18:06 pm] Sarah Prouting: I love the use of markdown, nice one!
+[13/04/16 9:18:51 pm] Gabby: lol good :)
+[13/04/16 9:19:05 pm] Sarah Prouting: Okay, shall we look at #4 ?
+[13/04/16 9:20:09 pm] Gabby: yep
+[13/04/16 9:20:25 pm] Sarah Prouting: Just because I noticed a difference between the report and the prject guides...
+[13/04/16 9:20:41 pm] Sarah Prouting: When we met on Tuesday I thought they were the same thing
+[13/04/16 9:21:14 pm] Gabby: so they are not?
+[13/04/16 9:22:43 pm] Sarah Prouting: well... I think its similar to the work practices we have just been doing for ourselves; you know how we looked at WHAT we would do and then HOW we'd do it?
+[13/04/16 9:23:52 pm] Sarah Prouting: So I think there is 25% for what we recommend (backed up with research) and then 15% for how it can be implemented. Then another 10% for the tools which enable the process.
+[13/04/16 9:25:10 pm] Gabby: ah yes
+[13/04/16 9:25:18 pm] Gabby: so i will re read the assignment then
+[13/04/16 9:26:16 pm] Sarah Prouting: eg - Use task boards for open progress monitoring and sprint planning;
+taskboards will be split into backlog, current sprint, & whatever, they will be used by everyone on the team etc;
+a good tool to use is trello, because, blah blah blah
+[13/04/16 9:27:41 pm] Gabby: its for Project Tool Guide?
+[13/04/16 9:27:51 pm] Sarah Prouting: Er.. my dinner is ready again!
+[13/04/16 9:28:07 pm] Gabby: oh kay
+[13/04/16 9:28:08 pm] Sarah Prouting: The example I gave was split into 3
+[13/04/16 9:28:43 pm] Gabby: i see.
+[13/04/16 9:28:53 pm] Sarah Prouting: eg - use task boards (report);
+split them into ... (process guide);
+use trello (tool guide)
+[13/04/16 9:29:04 pm] Gabby: ahh
+[13/04/16 9:29:12 pm] Gabby: yes that is clear
+[13/04/16 9:30:42 pm] Sarah Prouting: Maybe you could have a look at the cards I have put into the backlog and tell me what you think about the percentages and marks which I have added to the descriptions. They are my estimations of effort.
+[13/04/16 9:31:12 pm] Sarah Prouting: We could have done planning poker but I feel like the effort has already been done for us?!
+[13/04/16 9:31:32 pm] Gabby: yeah in trello right? and indeed
+[13/04/16 9:32:14 pm] Sarah Prouting: yeah, in trello :-)
+My dinner is definitely ready... you want to meet again at 7 tomorrow? Or a different time?
+[13/04/16 9:32:41 pm] Gabby: sure, at 7pm then :)
+[13/04/16 9:32:51 pm] Sarah Prouting: great :-)
+[13/04/16 9:34:30 pm] Sarah Prouting: I've been making notes in the agenda as we go so I'll upload that soon. :-)
+Catch you tomorrow

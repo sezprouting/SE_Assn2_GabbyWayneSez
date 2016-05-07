@@ -1,0 +1,52 @@
+[5/05/16 8:28:09 pm] Sarah Prouting: Gabby and Wayne - are you ready to begin?
+[5/05/16 8:28:23 pm] yi wu: Ok
+[5/05/16 8:29:01 pm] Sarah Prouting: Let's wait a couple of minutes for Gabby
+[5/05/16 8:29:19 pm] yi wu: (yawn)
+[5/05/16 8:29:39 pm] Gabby: Yeah
+[5/05/16 8:30:51 pm] Sarah Prouting: Great. No one was here at 8pm?
+[5/05/16 8:31:52 pm] Sarah Prouting: Who wants to go first with their three questions?
+[5/05/16 8:32:41 pm] Gabby: No questions here. Actually. You?
+[5/05/16 8:32:53 pm] yi wu: my three questions...
+*What I have done since the last nightly I have selected 1cards to wok on.and tonight I will write report.
+*What I will do before the next nightly continue write  report .
+*Obstacles in my way :null
+[5/05/16 8:34:22 pm] Sarah Prouting: Great! Thanks Wayne :-)
+Sorry Gabby - I wasn't very clear...  I was meaning the three questions for the nightly standup
+[5/05/16 8:36:42 pm] Gabby: ..
+*What I have done: just looking at agile.
+*What I will do before the next nightly: will research more.
+*Obstacles in my way : have other assignments due soon but will try my best to delivery..
+[5/05/16 8:38:07 pm] Sarah Prouting: Okay, when are your other due dates?
+[5/05/16 8:39:01 pm] Gabby: Next Monday
+[5/05/16 8:40:25 pm] Sarah Prouting: Okay. Keep in touch and tell us how it is going each night. If it becomes too much to accomplish then Wayne and I will help
+[5/05/16 8:40:36 pm] Sarah Prouting: Right Wayne?
+[5/05/16 8:40:48 pm] Gabby: It's okay I only need to do coding
+[5/05/16 8:41:04 pm] yi wu: :$thanks a lot
+[5/05/16 8:41:09 pm] yi wu: :$
+[5/05/16 8:41:42 pm] Sarah Prouting: That's the idea of this agile team work :-) Jim talks about it in class a lot... We help each other out :-)
+[5/05/16 8:41:57 pm] Sarah Prouting: It goes both ways.
+[5/05/16 8:42:27 pm] yi wu: Sarah how about you? Three questions
+[5/05/16 8:45:08 pm] Sarah Prouting: Nice :-)
+What I have done - I checked out some books on Crystal from the library and I've been reading through them. I've made notes in the document as I go.
+I've also made a start on the introduction as well. I've discovered there might be a need for some plan-driven development concepts (pre-agile stuff) because 50 people could be quite a large team for agile development.
+[5/05/16 8:45:57 pm] Sarah Prouting: So we need to bear that in mind, and consider looking into some waterfall or CMM-SW and CMMI methods
+[5/05/16 8:46:26 pm] Sarah Prouting: What I intend to get done I want to get the introduction section finished by tomorrow's meeting.
+[5/05/16 8:46:35 pm] Sarah Prouting: Obsticles None
+[5/05/16 8:47:21 pm] Sarah Prouting: I have a quick couple of questions before we go...
+[5/05/16 8:48:15 pm] yi wu: Ok
+[5/05/16 8:48:30 pm] Sarah Prouting: Who chose XP?
+[5/05/16 8:48:59 pm] Gabby: There's already lists of approaches?
+[5/05/16 8:49:14 pm] yi wu: Me,I choose
+[5/05/16 8:51:18 pm] Gabby: I thought we each do research and pick ideas to put out of each approach in the next meeting?
+[5/05/16 8:51:51 pm] Sarah Prouting: Neat-o, Wayne could you add yourself to the card in Trello please? Then we can easily see who is doing what :-)
+[5/05/16 8:52:45 pm] Sarah Prouting: Gabby... My understanding was that we pick a job now, and integrate the research in the next meeting
+[5/05/16 8:54:02 pm] Sarah Prouting: Actually, more accurately, that we were going to share the results of our research on Sunday, Choose a final recommendation on Monday, (the sprint is then finished) and do a retrospective at the tutorial
+[5/05/16 8:54:13 pm] Gabby: So scrum lean Kanban cmm Se and cmmi xp have been decided?
+[5/05/16 8:55:03 pm] Sarah Prouting: No they can be changed, they are just ideas.
+But I understood we were all going to pick something each and move it into the sprint backlog
+[5/05/16 8:56:25 pm] Gabby: Oh I see okay
+[5/05/16 8:56:51 pm] Sarah Prouting: I'm afraid I have to go.
+[5/05/16 8:57:08 pm] yi wu: I think gabby idea is ok,we can do all of the research
+[5/05/16 8:57:45 pm] Sarah Prouting: I will respond to anything else the next time I'm online. Wayne and Gabby you're free to keep chatting if you like :-)
+[5/05/16 8:58:15 pm] yi wu: Ok no problem
+[5/05/16 8:58:45 pm] Gabby: Okay I see sweet as
