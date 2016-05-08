@@ -46,17 +46,39 @@ ________________
 
 Agile Development Approaches
 This section outlines a collection of suitable development approaches, each drawing on the Agile philosophies of [insert philosophies with references].
-Crystal
-[Sez researching Crystal]
-“The Crystal Clear method covers smaller projects; Crystal Orange was the first to be developed and addresses larger projects.” (Meyer, 2014, p141)
-Crystal Orange is for “up to 40 people, sitting in one building, working on a system that might cause loss of discretionary monies
-seven principles
+Crystal [Sez researching Crystal]
+Overview
+The Crystal ‘family’ of methodologies are intended to provide project outlines which guide rather than dictate the requirements for an agile project. Each crystal type is identified by a colour, beginning at Clear and ranging through Yellow and Orange to Red, which indicate increased project requirements as a function of increased project size and/or criticality (Cockburn, 2007).  The methodology aims to be as light as possible for any given project and requirements (properties) are tailored accordingly. All colours in the Crystal family support the following values and principles:
+
+
+Values: 1) The techniques and practices used will be people-centric and communication-centric, thereby supporting the human element; 2) the design environment will be highly tolerant, recognising the varied nature of human cultures (Cockburn, 2007).
+
+
+Principles: The following list is taken directly from Cockburn (2007, p.182):
+1. Interactive …
+2. Excess…
+3. Larger teams…
+4. Greater ceremony…
+5. Increasing feedback…
+6. Discipline, skills…
+7. Efficiency is expendable…[a]
+
+
+According to Meyer (2014), small projects can utilise Crystal Clear while Orange is older and suits larger projects. Cockburn (2007) states Crystal Orange was developed for a team of up to 40 people, where the project length is expected to be one to two years and the system is not life- or legally critical. In the case of [project name], the most suitable type of Crystal project is likely to be Orange. Cockburn (2007) also describes the method as suitable for projects co-located in one building and where time-to-market is important. These are the characteristics of the [game name] project.
 Practices and Requirements
+The Crystal methodology does not prescribe specific techniques or processes, instead; it provides a collection of project roles and practices which encourage a minimum overhead while ensuring completeness of project design. Specifically; Cockburn (2007) instructs that Crystal Orange requires the following project standards to be met:
+* Incremental software delivery (three - four months)
+* Milestones track progress using deliveries or decisions
+* Functional regression testing is automated to some degree
+* Direct user involvement
+* ‘...two user viewings per release
+* Downstream activities start as soon as upstream is “stable enough to review”
+* Product- and methodology-tuning workshops are held at the start and middle of each increment.’ (p. 340)[b]
+Cockburn (2007) instructs that the processes for achieving these standards are chosen and defined during the initial ‘method-tuning’ stage of project design. Crystal allows for processes from other methodologies to be utilised, so long as they fulfil the requirements of the standards (Cockburn, 2007). In addition to the standards, Cockburn also dictates the need for fourteen roles within the project, including Sponsor, Business Expert, Project Manager, Architect, and various designers, programmers and testers among others.
 Advantages and Payoff
 Disadvantages and Risk
 Suitability
-
-
+Reference Meyer, a few of the practices in Crystal are suggested to be hype.
 
 
 Recommended Practice
@@ -147,5 +169,8 @@ Wayne
 
 Bibliography
 Boehm, B. & Turner, R. (2009). Balancing agility and discipline. Addison-Wesley.
+Cockburn, A. (2007).  Agile Software Development. Addison-Wesley.
 Meyer, B. (2014). Agile!. Zurich, Switzerland: Springer.
 New Zealand Legislation. (n.d.) Retreived from http://www.legislation.govt.nz/
+[a]Find a way to summarise
+[b]hard to summarise
