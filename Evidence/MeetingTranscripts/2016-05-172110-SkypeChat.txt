@@ -1,0 +1,57 @@
+[17/05/16 9:13:19 pm] Sarah Prouting: So; at our retrospective today; Gabby and I agreed that we would change the nightly meetings to a promise to post the answers to the three questions by 10pm each night. If someone is facing obstacles it is up to the team to help out where possible.
+
+[17/05/16 9:15:59 pm] Sarah Prouting: We haven't started our next sprint yet, and it is due to finish ON FRIDAY!
+
+[17/05/16 9:17:19 pm] Sarah Prouting: so, what do you want to do team?
+A) keep researching methods,
+B) pick one out of Scrum, XP and Crystal and just move on with the next part (practice guide), or 
+C) something else?
+
+[17/05/16 9:53:44 pm] Gabby: This Friday?
+
+[17/05/16 9:53:50 pm] Gabby: And B
+
+[17/05/16 9:55:52 pm] Sarah Prouting: Yes that was the initial result from the calendar thing we did LAST tutorial (you had to leave for your next class :-( )
+
+[17/05/16 9:56:14 pm] Sarah Prouting: However that doesn’t mean we can’t agree to change it.
+
+[17/05/16 9:56:36 pm] Sarah Prouting: It’s just that we’d need to change before we started the Sprint :-)
+
+[17/05/16 9:56:37 pm] Gabby: Ah I see sweet. Why not upload the results to google drive?
+
+[17/05/16 9:57:02 pm] Sarah Prouting: Which results?
+
+[17/05/16 9:57:07 pm] Gabby: Yup sure
+
+[17/05/16 9:57:13 pm] Gabby: Last tutorial
+
+[17/05/16 9:57:26 pm] Sarah Prouting: I think I put them in github...
+
+[17/05/16 9:57:51 pm] Gabby: Oh GitHub? I never checked
+
+[17/05/16 9:57:53 pm] Sarah Prouting: and I added the sprint we just finished and the next sprint to the google calendar
+
+[17/05/16 9:58:22 pm] Gabby: Calendar? I never used it. What about pictures?
+
+[17/05/16 9:58:42 pm] Sarah Prouting: https://github.com/sezprouting/SE_Assn2_GabbyWayneSez/tree/master/Evidence/Priorities%20and%20Plans/2016-05-10-workOverviewAndPriorities
+
+[17/05/16 9:59:31 pm] Gabby: I'll need to use my laptop I'll check tomorrow when I can
+
+[17/05/16 10:00:19 pm] Sarah Prouting: If you scroll up to 10 May in this conversation there is a picture of the calendar...
+
+[17/05/16 10:01:37 pm] Gabby: Scroll up?
+
+[17/05/16 10:01:48 pm] Gabby: Never mind I will check GitHub
+
+[17/05/16 10:07:44 pm] Sarah Prouting: Sorry Gabby I was typing in another channel :-) I meant if you look at the history for this conversation, you should be able to see the picture of the calendar which I sent on the 10th of May. I hope that makes more sense.
+
+
+[17/05/16 10:37:48 pm] Gabby: I know what you meant before
+
+[17/05/16 10:38:14 pm] Gabby: I just can't go stroll up. I will look at GitHub instead
+
+[17/05/16 10:40:45 pm] Sarah Prouting: Oh. Strange - I didn't know you can't scroll up. That link I posted should get you there. 
+I'm in bed now, so catch you tomorrow eh? 
+Good night :-)
+
+[17/05/16 10:41:18 pm] Gabby: I don't mind anyways. Good night
