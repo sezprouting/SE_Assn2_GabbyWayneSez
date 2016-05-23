@@ -45,8 +45,8 @@ It is worth noting that Boehm and Turner (2009) describe several scenarios where
 ________________
 
 
-Agile Development Approaches
-This section outlines a collection of suitable development approaches, each drawing on the Agile philosophies as developed by Beck, et al. (2001) such as:
+Crystal Development Approach
+This section outlines Crystal, a development approach which meets the Agile philosophies developed by Beck, et al. (2001) such as:
 1. Early and frequent delivery of working software which brings value,
 2. Support for requirement-change,
 3. Daily integration of Business & Development,
@@ -55,8 +55,6 @@ This section outlines a collection of suitable development approaches, each draw
 6. Sustainable pace of development,
 7. Reflection and adjustment of the development environment,
 8. Efficiency through simplicity.
-The methodologies described in this section provide an overview of the possibilities which are available to Saturn Games for the Gibbous Moon project. The final recommendation will be drawn from the systems which are described below.
-Crystal [Sez researching Crystal]
 Overview
 The Crystal ‘family’ of methodologies are intended to provide project outlines which guide rather than dictate the requirements for an agile project. Each crystal type is identified by a colour, beginning at Clear and ranging through Yellow and Orange to Red, which indicate increased project requirements as a function of increased project size and/or criticality (Cockburn, 2007).  The methodology aims to be as light as possible for any given project and requirements (properties) are tailored accordingly, with one main concept: “Osmotic Communication” (Cockburn, 2007; Meyer, 2014). Cockburn explains this is when team members work so closely they gather valuable information from conversations and work stations which occur naturally in the work environment.
 
@@ -64,7 +62,7 @@ The Crystal ‘family’ of methodologies are intended to provide project outlin
 All colours in the Crystal family support the following values:
 1. The techniques and practices used will be people-centric and communication-centric, thereby supporting the human element (Cockburn, 2007);
 2. The design environment will be highly tolerant, recognising the varied nature of human cultures (Cockburn, 2007). 
-These values will be essential to the Gibbous Moon project - regardless of the chosen methodology - as the team will be newly established and will likely go through forming and storming periods before norming and performing. Crystal offers a pathway to a supportive development environment, tolerant of both change and the people who implement it.
+These values will be essential to the Gibbous Moon project as the team will be newly established and will likely go through forming and storming periods before norming and performing. Crystal offers a pathway to a supportive development environment, tolerant of change and the people who implement it.
 
 
 According to Meyer (2014), small projects (teams up to eight) can utilise Crystal Clear while Orange is older and suits larger projects. Cockburn (2007) states Crystal Orange was developed for a team of up to 40 people, where the project length is expected to be one to two years and the system is not life- or legally critical. In the case of the Gibbous Earth project, the most suitable type of Crystal project is likely to be Yellow, which is based on an expansion of Clear and is for teams of size fifteen to 30 (Cockburn, 2007).
@@ -81,36 +79,60 @@ Cockburn (2007) instructs that the processes for achieving these standards are c
 Advantages
 The main advantage of the Crystal methodology is that it is designed to be fine-tuned to fit the project needs. By ‘stretching’ the lighter version up for a larger team (i.e. from Clear to Yellow) Saturn Games can be sure they are not over-burdening the development team with excess managerial overhead. Regular reflection and tuning throughout the project life enables the development environment to constantly evolve, thus coping with the rapid increase in employee numbers and the forming/storming periods associated with new teams. 
 Disadvantages
-By Cockburn’s own admission, the lack of prescribed processes in Crystal makes it daunting for beginners in Agile development. To make the most of the approach; the development team should have strong experience in methods such as Scrum, XP, Kanban and others in order to tune Crystal to meet the needs of the Gibbous Earth project. This lack of prescription would require greater pre-development design, although once up and running Crystal’s tolerance of change should make it easily manageable on a day-to-day or week-to-week basis. Meyer (2014) shows concern about the requirement to change to a new method if the size or the criticality of the project changes significantly. Again, an experienced team may be able to handle the shift smoothly, but; there is potential for some significant burden in re-tuning or changing methods for gross project changes. 
+By Cockburn’s own admission, the lack of prescribed processes in Crystal makes it daunting for beginners in Agile development. To make the most of the approach; the development team should have strong experience in methods such as Scrum, XP, Kanban and others in order to tune Crystal to meet the needs of the Gibbous Earth project. This lack of prescription would require greater pre-development design, although once up and running Crystal’s tolerance of change will make it easily manageable on a day-to-day or week-to-week basis. Meyer (2014) notes the requirement to change to a new method if the size or the criticality of the project changes significantly, however; an experienced team will handle the shift smoothly, noting there is potential for some significant burden in re-tuning or changing methods for gross project changes. 
 Suitability
-Meyer (2014) suggests some of the practices or techniques encouraged by Crystal are overhyped, such as pair programming, sustainable pace, and open-space offices. If Saturn Games employs a high level of Agile experience onto the Gibbous Earth project, Crystal Clear/Yellow would provide suitable guidelines for creating an ad-hoc approach which still meets the minimum requirements for a quality product delivered from within a dynamic and safe environment.
-Recommended Practice
-According to Boehm and Turner (2009), “Analyzing the project risks is an effective way to help managers and practitioners determine the right weight of process.”
-and
-“Asking ‘Is it riskier for me to apply (more of) this process component or to refrain from applying it?’ and honestly evaluating the answer can lead to the definition of reasonable, practical and effective hybrids that balance discipline and agility.”
+Meyer (2014) suggests some of the practices or techniques encouraged by Crystal are overhyped, such as pair programming, sustainable pace, and open-space offices. There is no requirement to utilise these techniques if they do not suit the Saturn Games team. Once again, with a high level of Agile experience on the Gibbous Earth project, Crystal Clear/Yellow would provide suitable guidelines for creating an ad-hoc approach which still meets the minimum requirements for a quality product delivered from within a dynamic and safe environment.
+
+
 ________________
 
 
-Practice Guide
+Practice Guide [Sez]
 Communication and Collaboration
+1. Osmotic / co-located / same floor
+2. Cross-discipline (user, client, devs, testers, BAs, executives)
+3. Direct user involvement
+4. Tuning workshops
+5. Information Radiator
 
 
 Requirements Engineering
+5.  “Annotated Use-cases or feature descriptions”
+6.
+
+
 
 
 Planning and Tracking
-
-
+Documentation is required but how/what is determined by the team.
+7. Milestones
+8. Common Object Model
+9. Screen drafts
+10. User viewings - scheduled
+11. Early Victory / Walking Skeleton
+12. Blitz Planning
+13. Planning Game
+14 Burn charts
+15. Dynamic Priority List
+16. Release Sequence
 Change Management
+16. Product Tuning / Methodology Tuning
+17. - there is something called ‘feature thrashing’ where iteration goals receive conflicting priorities. See Fig 5-22, Cockburn 2004?? Crystal Clear 
+18. Reflection Workshops
 
 
 Quality Assurance
+18. Test Driven Development
+19. Automated Testing
+20. Templates for work products
+21. Standards for coding & user interface
+22. Standards and details of regression testing
 
 
 ________________
 
 
-Tool Guide
+Tool Guide [Gabby]
 Communication and Collaboration
 
 
@@ -118,6 +140,7 @@ Requirements Engineering
 
 
 Planning and Tracking
+Note to Gabby: Crystal states that: “The most important tools the team can own … are these: A version and configuration management system [and] a printing whiteboard.” Git would be a great example of the first, and these days we can just take photos of the white board!
 
 
 Change Management
@@ -175,7 +198,11 @@ Beck, K., Beedle, M., van Bennekum, A., Cockburn, A., Cunningham, W., Fowler, M.
 
 
 Boehm, B. & Turner, R. (2009). Balancing agility and discipline. Addison-Wesley.
+
+
 Cockburn, A. (2007).  Agile Software Development. Addison-Wesley.
+
+
 Meyer, B. (2014). Agile!. Zurich, Switzerland: Springer.
 New Zealand Legislation. (n.d.) Retreived from http://www.legislation.govt.nz/
 [a]hard to summarise
