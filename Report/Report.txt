@@ -39,7 +39,7 @@ In the case of the Gibbous Earth project, an agile approach is favoured for the 
 * Product is not likely to require integration with external/custom systems.
 
 
-It is worth noting that Boehm and Turner (2009) describe several scenarios where teams of 50 - 150, although successful, were not easily managed. Although Saturn Games expects to employ up to 50 people, the development team is likely to consist of 20-25 employees. For this reason GWS have only incorporated Agile-based methodologies in the study.
+It is worth noting that Boehm and Turner (2009) describe several scenarios where teams of 50 - 150, although successful, were not easily managed. Although Saturn Games expects to employ up to 50 people, the development team is likely to consist of 20-25 employees. For this reason GWS advise an Agile-based approach.
 
 
 ________________
@@ -65,7 +65,7 @@ All colours in the Crystal family support the following values:
 These values will be essential to the Gibbous Moon project as the team will be newly established and will likely go through forming and storming periods before norming and performing. Crystal offers a pathway to a supportive development environment, tolerant of change and the people who implement it.
 
 
-According to Meyer (2014), small projects (teams up to eight) can utilise Crystal Clear while Orange is older and suits larger projects. Cockburn (2007) states Crystal Orange was developed for a team of up to 40 people, where the project length is expected to be one to two years and the system is not life- or legally critical. In the case of the Gibbous Earth project, the most suitable type of Crystal project is likely to be Yellow, which is based on an expansion of Clear and is for teams of size fifteen to 30 (Cockburn, 2007).
+According to Meyer (2014), small projects (teams up to eight) can utilise Crystal Clear while Orange is older and suits larger projects. Cockburn (2007) states Crystal Orange was developed for a team of up to 40 people, where the project length is expected to be one to two years and the system is not life- or legally critical. In the case of the Gibbous Earth project, the most suitable type of Crystal project is likely to be[a] Yellow, which is based on an expansion of Clear and is for teams of size fifteen to 30 (Cockburn, 2007).
 Practices and Requirements
 The Crystal methodology does not prescribe specific techniques or processes, instead; it provides a collection of project roles and practices which encourage a minimum overhead while ensuring completeness of project design. Specifically; Cockburn (2007) instructs that Crystal Clear requires the following project standards to be met:
 * Incremental software delivery (two - three months)
@@ -74,7 +74,7 @@ The Crystal methodology does not prescribe specific techniques or processes, ins
 * Direct user involvement
 * ‘...two user viewings per release
 * Downstream activities start as soon as upstream is “stable enough to review”
-* Product- and methodology-tuning workshops are held at the start and middle of each increment.’ (p. 340)[a]
+* Product- and methodology-tuning workshops are held at the start and middle of each increment.’ (p. 340)[b]
 Cockburn (2007) instructs that the processes for achieving these standards are chosen and defined during the initial ‘method-tuning’ stage of project design. Crystal allows for processes from other methodologies to be utilised, so long as they fulfil the requirements of the standards (Cockburn, 2007). For example, Cockburn explains that Extreme Programming (XP) meets all the requirements of Crystal Clear except for Clear’s requirement for documentation. In addition to the standards, Cockburn also dictates the need for four to fourteen roles within the project, depending on the project ‘colour’. For Crystal Clear these would include Sponsor, Senior and standard designer-programmers and the user (Cockburn, 2007). If Crystal Yellow is to be selected as the project approach, Saturn Games must ‘method-tune’ Crystal Clear it the beginning of the project and incorporate elements of Crystal Orange as the team sees fit.
 Advantages
 The main advantage of the Crystal methodology is that it is designed to be fine-tuned to fit the project needs. By ‘stretching’ the lighter version up for a larger team (i.e. from Clear to Yellow) Saturn Games can be sure they are not over-burdening the development team with excess managerial overhead. Regular reflection and tuning throughout the project life enables the development environment to constantly evolve, thus coping with the rapid increase in employee numbers and the forming/storming periods associated with new teams. 
@@ -153,19 +153,19 @@ ________________
 
 
 Learning Package
-Goals
-
-
-Target Audience
+Goals 
+What are going to learn?
+Target Audience 
+Who is going to do the learning? & how much experience do they have?
 
 
 Plan
-
-
+How will they learn, how will the tutorial or teaching be accomplished?
 Required Resources
 
 
 Activity
+Steps for them to practice and maybe questions for them to answer or observations to make
 
 
 ________________
@@ -205,4 +205,5 @@ Cockburn, A. (2007).  Agile Software Development. Addison-Wesley.
 
 Meyer, B. (2014). Agile!. Zurich, Switzerland: Springer.
 New Zealand Legislation. (n.d.) Retreived from http://www.legislation.govt.nz/
-[a]hard to summarise
+[a]delete??
+[b]hard to summarise
