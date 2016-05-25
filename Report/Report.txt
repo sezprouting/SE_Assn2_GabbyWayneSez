@@ -66,22 +66,44 @@ These values will be essential to the Gibbous Moon project as the team will be n
 
 
 According to Meyer (2014), small projects (teams up to eight) can utilise Crystal Clear while Orange is older and suits larger projects. Cockburn (2007) states Crystal Orange was developed for a team of up to 40 people, where the project length is expected to be one to two years and the system is not life- or legally critical. In the case of the Gibbous Earth project, the most suitable type of Crystal project is likely to be[a] Yellow, which is based on an expansion of Clear and is for teams of size fifteen to 30 (Cockburn, 2007).
-Practices and Requirements
-The Crystal methodology does not prescribe specific techniques or processes, instead; it provides a collection of project roles and practices which encourage a minimum overhead while ensuring completeness of project design. Specifically; Cockburn (2007) instructs that Crystal Clear requires the following project standards to be met:
-* Incremental software delivery (two - three months)
-* Milestones track progress using deliveries or decisions
-* Functional regression testing is automated to some degree
-* Direct user involvement
-* ‘...two user viewings per release
-* Downstream activities start as soon as upstream is “stable enough to review”
-* Product- and methodology-tuning workshops are held at the start and middle of each increment.’ (p. 340)[b]
-Cockburn (2007) instructs that the processes for achieving these standards are chosen and defined during the initial ‘method-tuning’ stage of project design. Crystal allows for processes from other methodologies to be utilised, so long as they fulfil the requirements of the standards (Cockburn, 2007). For example, Cockburn explains that Extreme Programming (XP) meets all the requirements of Crystal Clear except for Clear’s requirement for documentation. In addition to the standards, Cockburn also dictates the need for four to fourteen roles within the project, depending on the project ‘colour’. For Crystal Clear these would include Sponsor, Senior and standard designer-programmers and the user (Cockburn, 2007). If Crystal Yellow is to be selected as the project approach, Saturn Games must ‘method-tune’ Crystal Clear it the beginning of the project and incorporate elements of Crystal Orange as the team sees fit.
 Advantages
 The main advantage of the Crystal methodology is that it is designed to be fine-tuned to fit the project needs. By ‘stretching’ the lighter version up for a larger team (i.e. from Clear to Yellow) Saturn Games can be sure they are not over-burdening the development team with excess managerial overhead. Regular reflection and tuning throughout the project life enables the development environment to constantly evolve, thus coping with the rapid increase in employee numbers and the forming/storming periods associated with new teams. 
 Disadvantages
 By Cockburn’s own admission, the lack of prescribed processes in Crystal makes it daunting for beginners in Agile development. To make the most of the approach; the development team should have strong experience in methods such as Scrum, XP, Kanban and others in order to tune Crystal to meet the needs of the Gibbous Earth project. This lack of prescription would require greater pre-development design, although once up and running Crystal’s tolerance of change will make it easily manageable on a day-to-day or week-to-week basis. Meyer (2014) notes the requirement to change to a new method if the size or the criticality of the project changes significantly, however; an experienced team will handle the shift smoothly, noting there is potential for some significant burden in re-tuning or changing methods for gross project changes. 
 Suitability
 Meyer (2014) suggests some of the practices or techniques encouraged by Crystal are overhyped, such as pair programming, sustainable pace, and open-space offices. There is no requirement to utilise these techniques if they do not suit the Saturn Games team. Once again, with a high level of Agile experience on the Gibbous Earth project, Crystal Clear/Yellow would provide suitable guidelines for creating an ad-hoc approach which still meets the minimum requirements for a quality product delivered from within a dynamic and safe environment.
+
+
+Practices and Requirements
+The Crystal methodology does not prescribe specific techniques, instead; it provides a collection of project roles and properties which encourage a minimum overhead while ensuring completeness of project design. Cockburn (2005) instructs the following three project properties are required for Crystal Clear: ‘Frequent Delivery,’ ‘Reflective Improvement’ and ‘Osmotic Communication’ (p. ix) and GWS recommend the addition of ‘Focus’ and ‘Personal Safety’ as well. The processes and practices used to achieve these properties are chosen and defined during the initial ‘method-tuning’ stage of project design. Crystal allows for processes from other methodologies to be utilised, as long as they fulfil the requirements of the standards (Cockburn, 2007).
+Frequent Delivery
+Cockburn (2005) differentiates between short iterations and frequent delivery, explaining a collection of short iterations combine to produce deliverable value to the customer (refer Fig 1).
+
+
+ Screen Shot 2016-05-25 at 1.58.50 pm.png 
+
+Figure 1: Short iterations and frequent delivery
+(Adapted from Cockburn, Fig 4-1 (2005, p113))
+
+
+Saturn Games have indicated they do not intend to deliver product which is not a fully market-ready ‘final’ version (no public alpha and presumably no beta releases), therefore; their delivery cycle is may be considered to be two years (Fig 2).
+  Screen Shot 2016-05-25 at 9.10.39 pm.png 
+Figure 2: A single, two-year delivery
+
+
+The Crystal family of methodologies, especially Clear through Orange, consider a one-year delivery cycle to be a danger sign which must be mitigated with high user involvement during development iterations (Cockburn, 2005, 2007), and the same is true for a two-year delivery. GWS makes two recommendations in this area. First, given the nature of the Gibbous Earth game in that a) game-play is nonlinear and b) there is room to expand and change the product concept; GWS recommend planning include product milestones which provide definable value to the users and which can be used to determine delivery cycles. Cockburn (2005) advises the coordinator, business expert, lead designer and sponsor can achieve this by creating a project map and release plan during the initial planning phases. The release plan is not intended to be a static document, but will be updated after each delivery and/or iteration according to project need (Cockburn, 2005).
+Second, it is recommended Saturn games assign the role of ‘user’ to selected project members. Users will be responsible for assessing the Gibbous Earth product on behalf of the expected market and in this way the probability of product errors making it to release is reduced. Crystal Clear requires there to be two user viewings per release (Cockburn, 2007), which in this case can be taken to mean delivery cycle/milestone.
+
+
+Shorter delivery cycles, and short iterations, are supporting processes for continuous integration, and Crystal requires this is also carried out regularly (Cockburn, 2005). Team members on the Gibbous Earth project will determine by trial and error on an iteration-by-iteration basis the most effective frequency for integration. Note that, generally speaking, shorter is better as this allows issues to surface earlier. Several times a day should be the aim, however several times a week may suffice. 
+Reflective Improvement
+The second of Crystal Clear’s essential properties will enable the Gibbous Earth development team to effectively embrace change, especially as the team grows from very few to very many.
+
+
+For example, Cockburn explains that Extreme Programming (XP) meets all the requirements of Crystal Clear except for Clear’s requirement for documentation. In addition to the standards, Cockburn also dictates the need for four to fourteen roles within the project, depending on the project ‘colour’. For Crystal Clear these would include Sponsor, Senior and standard designer-programmers and the user (Cockburn, 2007). If Crystal Yellow is to be selected as the project approach, Saturn Games must ‘method-tune’ Crystal Clear it the beginning of the project and incorporate elements of Crystal Orange as the team sees fit.
+[b]
+
+
 
 
 ________________
@@ -176,15 +198,23 @@ Quality Assurance
 ________________
 
 
-Learning Package
+Learning Package [Wayne]
 Goals 
 What are going to learn?
+1
+2
+3
+
+
 Target Audience 
 Who is going to do the learning? & how much experience do they have?
+1
+2
+3
 
 
 Plan
-How will they learn, how will the tutorial or teaching be accomplished?
+How will they learn, how will the tutorial or     teaching be accomplished?
 Required Resources
 
 
@@ -230,4 +260,4 @@ Cockburn, A. (2007).  Agile Software Development. Addison-Wesley.
 Meyer, B. (2014). Agile!. Zurich, Switzerland: Springer.
 New Zealand Legislation. (n.d.) Retreived from http://www.legislation.govt.nz/
 [a]delete??
-[b]hard to summarise
+[b]definitely keep
