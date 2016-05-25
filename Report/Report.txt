@@ -17,7 +17,7 @@ The game itself, Gibbous Earth, is projected as primarily a PC (Windows) game, a
 
 The game concept, though juvenile, is already formed and has been accepted as the premise for government funding. Development is expected to honour the initial concept, however; there is scope for the product to evolve as team members provide their experience and ideas.
 Stakeholders
-Saturn Games will be accountable to the New Zealand public and must be able to show positive progress throughout development. It is expected that proof of progress will be provided at approximately six monthly intervals. As of the writing of this report it is assumed, through lack of evidence to the contrary, that New Zealand Government has not issued any regulations for game development, other than publication classification requirements (New Zealand Legislation, n.d.). 
+Saturn Games shareholders consist of the four founding staff members, and an additional three active investors who were also involved in the funding application. Saturn Games will be accountable to the New Zealand public and must be able to show positive progress throughout development. It is expected that proof of progress will be provided at approximately six monthly intervals. As of the writing of this report it is assumed, through lack of evidence to the contrary, that New Zealand Government has not issued any regulations for game development, other than publication classification requirements (New Zealand Legislation, n.d.). 
 Project Criticality
 The main risk of the project is loss of investment, and there are no life-critical or financial security interests. There is no risk of loss-of-contract if project milestones are not reached. The project criticality may therefore be considered to be low.
 Agile vs Plan-driven Development
@@ -89,6 +89,13 @@ ________________
 
 Practice Guide [Sez]
 Communication and Collaboration
+Practices which will need TOOLS:
+* Information Radiators
+   * eg planning boards. Have a look at this: https://youtu.be/eZpotzEeF8E see the mix of projector/burndown and physical. A write up on it is here: http://www.prodataconsult.com/about-us/best-practice/view/27/78/possibly-the-best-in-denmark/ 
+* Continuous Integration
+   * I will be stating the team will need to keep their code in a shared repository which can handle branching and merging of code. I think both git and mercurial can handle this.
+
+
 1. Osmotic / co-located / same floor
 2. Cross-discipline (user, client, devs, testers, BAs, executives)
 3. Direct user involvement
@@ -97,13 +104,30 @@ Communication and Collaboration
 
 
 Requirements Engineering
-5.  “Annotated Use-cases or feature descriptions”
-6.
+Practices which will need TOOLS:
+* Use-cases or feature descriptions
+   * Remember the tools don’t have to be digital/online 
+“Annotated Use-cases or feature descriptions”
 
 
 
 
 Planning and Tracking
+Planning practices:
+* Exploratory 360o
+* Methodology Tuning
+* Project Map & Release Plan
+   * Tied to Project Status
+* Iteration Plan
+   * Probably XP’s Planning Game. You should have access to this, if you search for it through AUT library, and there is this too. Don’t know how useful they are but it might get you started.
+   * Tied to Iteration Status
+   * Dynamic Priority List (e.g. Product Backlog)
+Tracking Practices
+* Project Status
+   * Tied to Project Plan
+* Iteration Status
+   * Tied to Iteration Plan
+* Burn charts
 Documentation is required but how/what is determined by the team.
 7. Milestones
 8. Common Object Model
@@ -117,10 +141,10 @@ Documentation is required but how/what is determined by the team.
 16. Release Sequence
 Change Management
 16. Product Tuning / Methodology Tuning
+* Reflection Workshops
+18. Version Control - probably git or mecurial.
 17. - there is something called ‘feature thrashing’ where iteration goals receive conflicting priorities. See Fig 5-22, Cockburn 2004?? Crystal Clear 
 18. Reflection Workshops
-
-
 Quality Assurance
 18. Test Driven Development
 19. Automated Testing
